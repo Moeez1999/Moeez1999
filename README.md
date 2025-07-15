@@ -1,117 +1,104 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Moeez1999/Moeez1999/main/banner.png" alt="Moeez1999 Banner" width="800"/>
+  <img src="https://github.com/Moeez1999/Moeez1999/raw/main/banner.png" alt="Banner" width="900"/>
 </p>
 
-<!-- Headline & Badge Stack -->
-<h1 align="center">👋 Hi, I'm Moeez — Full‑Stack Developer & AI Enthusiast</h1>
+---
+
+<h1 align="center">👋 Hi, I’m **Moeez Suleman**</h1>
+<h3 align="center">Full‑Stack Developer • Web3 • AI‑Agents • Mobile • Blockchain </h3>
+
 <p align="center">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Moeez1999?style=social"/>
-  <img alt="Top Language" src="https://img.shields.io/github/languages/top/Moeez1999/Moeez1999?color=blue"/>
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Moeez1999/Moeez1999"/>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Moeez1999&color=lightgrey"/>
+  <img src="https://komarev.com/ghpvc/?username=Moeez1999&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Moeez1999&margin-w=15&margin-h=15" alt="Trophies"/>
+  <a href="https://twitter.com/MoeezDev" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/MoeezDev?logo=twitter&style=for-the-badge" alt="Twitter"/>
+  </a>
 </p>
 
 ---
 
 ## 🧭 About Me
-
-I’m a passionate **Full‑Stack Developer** with a strong focus on:
-- **Web3**: Smart Contracts, dApps, DeFi ecosystems  
-- **AI Agents**: Chatbots, workflow automations via n8n, and autonomous systems  
-- **Mobile Apps**: iOS & Android development (Swift, Kotlin, Flutter)  
-- **Other Technologies**: Backend (Node.js, Python), DevOps, Cloud, Databases  
-
-I love blending emerging technologies—Web3, AI, mobile—to build real-world applications that are smart, secure, and scalable.
+- 🌍 Based in **Pakistan**, building global Web3 & AI solutions  
+- 🛠️ Expert in **Full‑Stack development**, **mobile apps** (iOS/Android), **smart contracts**, and **AI agents**  
+- 🚀 Passionate about decentralized systems, LLMs, automation, and scalable architectures
 
 ---
 
-## 🚀 What I’m Working On
+## 🔭 Currently Working On
+- **AI-Driven LinkedIn Bot** – daily content generation via n8n workflows + LLMs  
+- **Cross‑Platform OCR Toolkit** – AR with real-time translation (SwiftUI, Kotlin)  
+- **DeFi Portfolio Tracker** – integrates with EVM wallets (React, ethers.js, Solidity)  
+- **Voice‑Activated Virtual Assistant** – appointment scheduler with AI/voice (Node.js, Dialogflow)
+
+---
+
+## 💼 Skills & Tech Stack
+
+**Frontend:** React · Vue · Next.js · SwiftUI · Jetpack Compose · Flutter  
+**Backend:** Node.js · Express · Python · Flask · GraphQL  
+**Blockchain/Web3:** Solidity · Hardhat · Web3.js · ethers.js · MetaMask  
+**AI/Agents:** OpenAI GPT · Hugging Face · n8n workflows · Custom automation bots  
+**Mobile:** iOS (Swift), Android (Kotlin), Flutter  
+**Databases:** PostgreSQL · MongoDB · Redis  
+**Infrastructure:** AWS · Docker · GitHub Actions · CI/CD · DevOps  
+
+---
+
+## 📂 Selected Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **n8n LinkedIn Content Bot** | Generates daily AI content for LinkedIn using LLMs and saves it for automation workflows | n8n, JavaScript, Hugging Face |
-| **Mobile OCR Toolkit** | In-app OCR scanner with live translation for Android & iOS | SwiftUI, Kotlin, ML Kit |
-| **DeFi Dashboard** | Aggregates your Web3 wallet balances and shows real-time analytics | React, ethers.js, Solidity |
-| **AI Virtual Assistant** | Voice-enabled assistant that schedules meetings and sends reminders | Node.js, Dialogflow, WebRTC |
+| **🧠 n8n LinkedIn Bot** | Generates & schedules daily AI posts | n8n · JavaScript · Free LLMs |
+| **📱 Mobile OCR Toolkit** | OCR + live translation across platforms | SwiftUI · Kotlin · ML Kit |
+| **📊 DeFi Wallet Dashboard** | Real-time wallet analytics | React · ethers.js · Solidity |
+| **🗣️ Voice Virtual Assistant** | AI-driven voice scheduler | Node.js · Dialogflow · WebRTC |
 
 ---
 
-## 💼 Skills
-
-**Frontend:** React, Vue, SwiftUI, Jetpack Compose  
-**Backend:** Node.js, Express, Python, Flask  
-**Blockchain:** Solidity, Web3.js, Hardhat, MetaMask  
-**AI/ML Agents:** OpenAI GPT, Hugging Face LLMs, n8n Automations  
-**Databases:** PostgreSQL, MongoDB, Redis  
-**Cloud & DevOps:** AWS, Docker, GitHub Actions, CI/CD pipelines
-
----
-
-## 📦 Get in Touch
-
-- **Email:** moeez@example.com  
-- **LinkedIn:** [linkedin.com/in/Moeez1999](https://linkedin.com/in/Moeez1999)  
-- **Twitter:** [@MoeezDev](https://twitter.com/MoeezDev)  
-- **Portfolio:** [www.moeezdev.tech](https://moeezdev.tech)
-
----
-
-## 📋 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moeez1999&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moeez1999&layout=compact&theme=radical" />
+## 📫 Let’s Connect
+<p align="left">
+<a href="mailto:moeez.suleman460@gmail.com"><img src="https://img.shields.io/badge/Email%20- moeez.suleman460@gmail.com-yellow?style=flat&logo=gmail"/></a>
+<a href="https://linkedin.com/in/moeez-suleman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/></a>
+<a href="https://twitter.com/MoeezDev" target="_blank"><img src="https://img.shields.io/badge/Twitter-%40MoeezDev-blue?style=flat&logo=twitter"/></a>
 </p>
 
 ---
 
-## 📝 Blog & Tutorials
-
-- How I built an **Automated AI Content Bot** with n8n  
-- Deep dive into **Flutter + DeFi dashboards**  
-- Step‑by‑step guide: **Smart Contracts using Hardhat**
-
-*(Coming soon — check my portfolio link above!)*
-
----
-
-## 📎 Open Source Contributions
-
-- 🔗 [Awesome Web3 Developers List](https://github.com/awesome-lists/web3-devs)  
-- 🐛 Fixed accessibility bug in _react-calendar_ (PR #342)  
-- 🛠 Contributed to _n8n_ Plugin System (PR #2761)
-
----
-
-## 💡 Get Inspired
-
-> “Complexity is the enemy of execution.” – Tony Robbins  
->
-> “Programs must be written for people to read.” – Harold Abelson  
-
----
-
-### 🌟 Makers & Mentors
-
-- Special thanks to **Jane Doe** for guidance on Smart Contracts  
-- Inspired by **OpenAI** and **Mojang** for agent architectures  
-
----
-
+## 📊 GitHub Stats
 <p align="center">
-  <sub>Crafted with ❤️ by Moeez — building the next wave of web3 × AI tools 🌐🤖</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=Moeez1999&theme=tokyonight&show_icons=true" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moeez1999&layout=compact&theme=tokyonight" alt="Top Langs" width="45%"/>
 </p>
 
 ---
 
-### 🛠 How to Use This README
-
-1. **Add your real banner image** at `banner.png` in your profile repo.  
-2. Replace example links, email, and portfolio URL with your actual info.  
-3. Fill in your real project names and descriptions.  
-4. Commit and push to your `Moeez1999/Moeez1999` repo — it will appear on your GitHub profile homepage automatically.
+## 🛠 Tools & Technologies
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original-wordmark.svg" alt="Flutter" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/aws.svg" alt="AWS" width="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/hardhat.svg" alt="Hardhat" width="30"/>
+</p>
 
 ---
 
-## 🏷 Key Tags & Keywords
+## ✍️ Quotes That Inspire Me
+
+> “Programs must be written for people to read.” – Abelson  
+> “The best way to predict the future is to create it.” – Abraham Lincoln
+
+---
+
+<p align="center">
+  <sub>Inspired and building the future of Web3 × AI × mobile — Crafted by **Moeez Suleman**</sub>
+</p>
